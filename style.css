@@ -1,0 +1,23 @@
+p.ex{
+            padding-left: 30px;
+
+        }
+        p.ex1{
+            padding-left: 100px;
+        }
+        div.a{
+            line-height: 2;
+            font-size: large;
+            align-content: center;
+        }
+        input.ex
+        {
+            width: 20%;
+            height: 50px;
+        }
+        button{
+            width: 100px;
+            height: 30px;
+            font-size: 20px;
+
+        }
